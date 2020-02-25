@@ -1,5 +1,9 @@
 # QTUM Address Converter
 
+The address in bytes is `ripemd160(sha256(pubkey))`. This address could be encoded either with hex or base58.
+
+# Demo
+
 Install
 
 ```
